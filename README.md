@@ -26,6 +26,7 @@ Note: Tableau Prep and Tableau files are not included in this repository
 💡 Solution Prototype
 
 A simulation prototype was created using Figma to demonstrate our proposed solution:
+
 👉 https://menu-enamel-77953257.figma.site/
 
 This allows SCIS students to:
