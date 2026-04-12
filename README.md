@@ -10,10 +10,11 @@ The purpose of this survey is to better understand students’ experiences when 
 🧹 Data Processing
 
 Survey responses were collected from 80 SCIS students
+
 Data cleansing was performed on the dataset, including:
-Removal of stop words
-Text normalization
-Lemmatization of open-ended responses
+- Removal of stop words
+- Text normalization
+- Lemmatization of open-ended responses
 The cleaned dataset was exported into .xlsx format for further use
 
 📊 Data Preparation & Visualization
