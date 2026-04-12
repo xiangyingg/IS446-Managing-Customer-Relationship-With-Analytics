@@ -19,8 +19,10 @@ The cleaned dataset was exported into .xlsx format for further use
 📊 **Data Preparation & Visualization**
 
 The cleaned dataset was further processed using Tableau Prep (e.g., column splitting and pivoting)
+
 The final dataset was used to build dashboards in Tableau for analysis and insights generation
-Note: Tableau Prep and Tableau files are not included in this repository
+
+**Note: Tableau Prep and Tableau files are not included in this repository**
 
 💡 **Solution Prototype**
 
