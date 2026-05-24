@@ -22,7 +22,7 @@ The cleaned dataset was further processed using Tableau Prep (e.g., column split
 
 The final dataset was used to build dashboards in Tableau for analysis and insights generation
 
-**Note: Tableau Prep and Tableau files are not included in this repository**
+**Note: Tableau Prep is not included in this repository**
 
 💡 **Solution Prototype**
 
